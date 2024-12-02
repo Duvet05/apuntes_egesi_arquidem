@@ -153,6 +153,8 @@ Esta fase se centra en la gobernanza durante la implementación de la arquitectu
 Fase H: Gestión de la Arquitectura (Architecture Change Management):
 Una vez implementada la arquitectura, esta fase se dedica a la gestión de los cambios y la evolución de la arquitectura. Aquí se lleva a cabo el monitoreo y ajuste continuo de la arquitectura para asegurar que continúe alineada con los objetivos del negocio y las necesidades emergentes.
 
+Gestión de Requisitos.
+
 --
 
 Los **principios y lineamientos de arquitectura empresarial** son guías fundamentales que definen las normas, valores y directrices para el diseño y gestión de la arquitectura dentro de una organización. Ayudan a garantizar que todas las decisiones y actividades arquitectónicas estén alineadas con los objetivos estratégicos y las mejores prácticas. En el contexto de **TOGAF (The Open Group Architecture Framework)**, estos principios y lineamientos establecen un marco sólido para guiar la creación, implementación y mantenimiento de la arquitectura empresarial.
